@@ -3,7 +3,8 @@ Java practice from old class repos.
 - Basic Syntax stuff
 - Singletons
 - Array manipulation
+- Concatenations and filtering 
 - Json usage and organization 
-- OOP
+- OOP: interfaces, classes, and inheritance 
 
   
